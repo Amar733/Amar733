@@ -19,10 +19,18 @@
 
 | Stats | Languages |
 |-------|-----------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amar733&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/app/top-langs/?username=Amar733&layout=compact&theme=radical) |
+## 📊 GitHub Stats
 
-## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/Amar733/Amar733/output/github-contribution-grid-snake.svg)
+<!-- Stats Card -->
+![Amar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amar733&show_icons=true&theme=radical)
+
+<!-- Top Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amar733&layout=compact&theme=radical)
+
+<!-- Snake Animation (if you have the action set up) -->
+![Snake Animation](https://raw.githubusercontent.com/Amar733/Amar733/output/github-contribution-grid-snake.svg)
+
+
 
 ## 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amar733&theme=radical)
