@@ -1,60 +1,43 @@
 # Hi, I'm Amar 👋
 
 ## 🚀 About Me
-- 💻 I am a web developer
-- 🌱 Currently learning: React, Node.js, Data Structures & Algorithms
-- 🎯 Goal: Become a professional software developer
-- 📍 Based in India
+- 💻 Web Developer
+- 🌱 Learning: React, Node.js, DSA
+- 🎯 Goal: Professional Software Developer
+- 📍 India
 
----
+## 🛠️ Tech Stack
 
-## 🛠️ Skills
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
-### Languages
-- JavaScript
-- Python
-- HTML
-- CSS
+## 📊 GitHub Analytics
 
-### Tools & Technologies
-- React
-- Node.js
-- Git
-- GitHub
-- VS Code
+| Stats | Languages |
+|-------|-----------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amar733&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/app/top-langs/?username=Amar733&layout=compact&theme=radical) |
 
----
+## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/Amar733/Amar733/output/github-contribution-grid-snake.svg)
 
-## 📊 GitHub Stats
+## 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amar733&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amar733&show_icons=true)
+## 📂 Projects & Languages Used
 
+### 📝 Notes App
+`JavaScript` `Node.js` `JWT` `Express`
+- 🔐 JWT Authentication
+- 📝 CRUD operations
 
+### ✅ Todo App  
+`HTML` `CSS` `JavaScript`
+- ➕ Add/Delete tasks
+- 💾 Local storage
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amar733&layout=compact)
-![Snake animation](https://github.com/Amar733/Amar733/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 📂 Projects
-
-### 📝 Notes App (JWT Authentication)
-- User login & signup
-- Secure authentication using JWT
-- CRUD operations for notes
-
-### ✅ Todo App
-- Add / Delete tasks
-- Local storage support
-
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amar733)
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/Amar733
+## 📫 Connect
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amar733)
