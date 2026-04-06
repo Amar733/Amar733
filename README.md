@@ -15,13 +15,11 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
-## 📊 GitHub Stats
+## 🔢 Total Contributions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amar733&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar733&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Amar733)
 
+![Contribution Streak](https://img.shields.io/github/commit-activity/m/Amar733/Amar733?label=Monthly%20Commits)
 ## 🐍 Snake Animation
 
 <p align="center">
