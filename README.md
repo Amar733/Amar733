@@ -15,25 +15,26 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
-## 📊 GitHub Analytics
-
-| Stats | Languages |
-|-------|-----------|
 ## 📊 GitHub Stats
 
-<!-- Stats Card -->
-![Amar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amar733&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amar733&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar733&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
 
-<!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amar733&layout=compact&theme=radical)
+## 🐍 Snake Animation
 
-<!-- Snake Animation (if you have the action set up) -->
-![Snake Animation](https://raw.githubusercontent.com/Amar733/Amar733/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amar733/Amar733/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
-
+*Note: Snake animation appears after setting up GitHub Action workflow*
 
 ## 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Amar733&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amar733&theme=radical" alt="Activity Graph" />
+</p>
 
 ## 📂 Projects & Languages Used
 
@@ -48,4 +49,5 @@
 - 💾 Local storage
 
 ## 📫 Connect
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amar733)
