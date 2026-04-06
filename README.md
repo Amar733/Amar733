@@ -19,8 +19,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Amar733)
 
-
-![Total Contributions](https://github-contributions-counter.vercel.app/api/?username=Amar733)
+![All Time Contributions](https://badges.strrl.dev/contributions/all/Amar733)
 
 ![Contribution Streak](https://img.shields.io/github/commit-activity/m/Amar733/Amar733?label=Monthly%20Commits)
 ## 🐍 Snake Animation
