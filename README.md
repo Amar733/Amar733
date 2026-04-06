@@ -32,6 +32,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Amar733)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amar733&layout=compact)
+![Snake animation](https://github.com/Amar733/Amar733/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
