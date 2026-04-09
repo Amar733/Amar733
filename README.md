@@ -1,7 +1,7 @@
 # Hi, I'm Amar 👋
 
 ## 🚀 About Me
-- 💻 Web Developer
+- 💻 Full Stack Developer
 - 🌱 Learning: React, Node.js, Express js,DSA
 - 🎯 Goal: Professional Software Developer
 - 📍 India
