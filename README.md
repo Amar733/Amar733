@@ -4,7 +4,7 @@
 - 💻 Full Stack Developer
 - 🌱 Learning: React, Node.js, Express js,DSA
 - 🎯 Goal: Professional Software Developer
-- 📍 India
+- 📍 NOida,India
 
 ## 🛠️ Tech Stack
 
