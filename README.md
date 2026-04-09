@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 💻 Web Developer
-- 🌱 Learning: React, Node.js, DSA
+- 🌱 Learning: React, Node.js, Express js,DSA
 - 🎯 Goal: Professional Software Developer
 - 📍 India
 
