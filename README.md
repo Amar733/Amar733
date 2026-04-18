@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 💻 Full Stack Developer
-- 🌱 Learning: React, Node.js, Express js,DSA
+- 🌱 MERN developer && solved 100+ leetcode dsa questions
 - 🎯 Goal: Professional Software Developer
 - 📍 Noida,UP(India)
 
