@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 💻 Full Stack Developer
 - 🌱 MERN developer && solved 100+ leetcode dsa questions
-- 🎯 Goal: Professional Software Developer
+- 🎯 Professional Software Developer
 - 📍 Noida,UP(India)
 
 ## 🛠️ Tech Stack
