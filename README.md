@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 💻 Full Stack Developer
-- 🌱 MERN developer && solved 100+ leetcode dsa questions
+- 🌱 MERN developer && solved 100++ leetcode dsa questions
 - 🎯 Professional Software Developer
 - 📍 Noida,UP(India)
 
