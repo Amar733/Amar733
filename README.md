@@ -22,11 +22,7 @@
 ![All Time Contributions](https://badges.strrl.dev/contributions/all/Amar733)
 
 ![Contribution Streak](https://img.shields.io/github/commit-activity/m/Amar733/Amar733?label=Monthly%20Commits)
-## 🐍 Snake Animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Amar733/Amar733/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
 
 *Note: Snake animation appears after setting up GitHub Action workflow*
 
