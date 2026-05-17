@@ -1,4 +1,4 @@
-# Hi, I'm Amar 👋
+## Hi, I'm Amar 👋
 
 ## 🚀 About Me
 - 💻 Full Stack Developer
