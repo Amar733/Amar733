@@ -1,6 +1,6 @@
 ## Hi, I'm Amar 👋
 
-## 🚀 About Me
+# 🚀 About Me
 - 💻 Full Stack Developer
 - 🌱 MERN developer && solved 100++ leetcode dsa questions of arrays,linkedList,backtracking,sliding window
 - 🎯 Professional Software Developer
