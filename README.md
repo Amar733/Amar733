@@ -26,7 +26,7 @@
 
 *Note: Snake animation appears after setting up GitHub Action workflow
 
-## 📈 Activity Graphs
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amar733&theme=radical" alt="Activity Graph" />
