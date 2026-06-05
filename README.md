@@ -1,7 +1,7 @@
 ## Hi, I'm Amar 👋
 
 # 🚀 About Me
-- 💻 Full Stack Developer
+- 💻 Full Stack Developer.
 - 🌱 MERN developer && solved 100++ leetcode dsa questions of arrays,strings,linkedList,backtracking,sliding window
 - 🎯 Professional Software Developer
 - 📍 Noida,UP(India).
