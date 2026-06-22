@@ -2,7 +2,7 @@
 
 # 🚀 About Me
 - 💻 Full Stack Developer.
-- 🌱 MERN developer && solved 100++ leetcode dsa questions of arrays,strings,linkedList,backtracking,sliding window
+- 🌱 Software developer && solved 100++ leetcode dsa questions of arrays,strings,linkedList,backtracking,sliding window
 - 🎯 Professional Software Developer
 - 📍 Noida,UP(India).
 ##  Tech Stack
