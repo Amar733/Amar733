@@ -23,7 +23,7 @@
 ![Contribution Streak](https://img.shields.io/github/commit-activity/m/Amar733/Amar733?label=Monthly%20Commits)
 
 
-*Note: Snake animation appears after setting up GitHub Action workflow
+*Note: Snake animation appears after setting up GitHub Action workflow.
 
 ## 📈 Activity Graph
 
