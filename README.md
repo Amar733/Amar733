@@ -3,7 +3,7 @@
 # 🚀 About Me
 - 💻 Full Stack Developer.
 - 🌱 Software developer && solved 100++ leetcode dsa questions of arrays,strings,linkedList,backtracking,sliding window
-- 🎯 Professional Software Developer
+- 🎯 Professional Software Developer.
 - 📍 Noida,UP(India)
 ##  Tech Stack
 
