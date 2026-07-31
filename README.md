@@ -4,8 +4,8 @@
 - 💻 Full Stack Developer..
 - 🌱 Software developer && solved 100++ leetcode dsa questions of arrays,strings,linkedList,backtracking,sliding window.
 - 🎯 Professional Software Developer.
-- 📍 Noida,UP(India).
-##  Tech Stack..
+- 📍 Noida,UP(India)..
+##  Tech Stack.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
